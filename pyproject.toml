@@ -1,8 +1,13 @@
 [tool.poetry]
-name = "e4client"
-version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+name = "e4stream"
+version = "0.1.1"
+description = "Python package that provides a simple API for interacting with packets coming from the Empatica E4 Streaming Server"
+authors = ["Jason Raether <jasondraether@gmail.com>"]
+license="MIT"
+readme="README.md"
+homepage="https://github.com/jasondraether/e4stream"
+repository="https://github.com/jasondraether/e4stream"
+keywords=["e4","empatica","hubbs"]
 
 [tool.poetry.dependencies]
 python = "^3.9"

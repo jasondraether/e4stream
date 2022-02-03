@@ -1,4 +1,4 @@
-from e4client import __version__
+from e4stream import __version__
 
 
 def test_version():
